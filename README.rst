@@ -1,3 +1,5 @@
+This is a FORK of https://github.com/home-assistant/core
+
 Home Assistant |Chat Status|
 =================================================================================
 
